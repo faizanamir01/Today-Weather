@@ -1,2 +1,3 @@
 # Today-Weather
-Displays live weather of any location on the planet
+All code files in master branch.
+Please refer to master branch 
